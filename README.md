@@ -18,5 +18,5 @@
     ```
     
 3. Acesse:
-    Frontend: http://localhost:3000
-    Backend: http://localhost:8080
+    * Frontend: http://localhost:3000
+    * Backend: http://localhost:8080
