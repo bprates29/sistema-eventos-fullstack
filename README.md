@@ -8,8 +8,8 @@
 ## Como Rodar o Projeto
 1. Clone o repositório:
    ```bash
-   git clone <url-do-seu-repositorio>
-   cd sistema-de-eventos
+   git clone https://github.com/bprates29/sistema-eventos-fullstack
+   cd sistema-eventos-fullstack
    ```
 
 2. Execute os serviços:
